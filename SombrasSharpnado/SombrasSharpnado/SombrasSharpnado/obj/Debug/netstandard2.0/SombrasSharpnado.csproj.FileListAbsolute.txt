@@ -1,0 +1,16 @@
+C:\Users\pavel\OneDrive\Documentos\SOURCE_CODE\Xamarin\Xamarin-Shadows\SombrasSharpnado\SombrasSharpnado\SombrasSharpnado\bin\Debug\netstandard2.0\SombrasSharpnado.deps.json
+C:\Users\pavel\OneDrive\Documentos\SOURCE_CODE\Xamarin\Xamarin-Shadows\SombrasSharpnado\SombrasSharpnado\SombrasSharpnado\bin\Debug\netstandard2.0\SombrasSharpnado.dll
+C:\Users\pavel\OneDrive\Documentos\SOURCE_CODE\Xamarin\Xamarin-Shadows\SombrasSharpnado\SombrasSharpnado\SombrasSharpnado\bin\Debug\netstandard2.0\ref\SombrasSharpnado.dll
+C:\Users\pavel\OneDrive\Documentos\SOURCE_CODE\Xamarin\Xamarin-Shadows\SombrasSharpnado\SombrasSharpnado\SombrasSharpnado\bin\Debug\netstandard2.0\SombrasSharpnado.pdb
+C:\Users\pavel\OneDrive\Documentos\SOURCE_CODE\Xamarin\Xamarin-Shadows\SombrasSharpnado\SombrasSharpnado\SombrasSharpnado\obj\Debug\netstandard2.0\SombrasSharpnado.csproj.AssemblyReference.cache
+C:\Users\pavel\OneDrive\Documentos\SOURCE_CODE\Xamarin\Xamarin-Shadows\SombrasSharpnado\SombrasSharpnado\SombrasSharpnado\obj\Debug\netstandard2.0\SombrasSharpnado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\OneDrive\Documentos\SOURCE_CODE\Xamarin\Xamarin-Shadows\SombrasSharpnado\SombrasSharpnado\SombrasSharpnado\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pavel\OneDrive\Documentos\SOURCE_CODE\Xamarin\Xamarin-Shadows\SombrasSharpnado\SombrasSharpnado\SombrasSharpnado\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pavel\OneDrive\Documentos\SOURCE_CODE\Xamarin\Xamarin-Shadows\SombrasSharpnado\SombrasSharpnado\SombrasSharpnado\obj\Debug\netstandard2.0\SombrasPage.xaml.g.cs
+C:\Users\pavel\OneDrive\Documentos\SOURCE_CODE\Xamarin\Xamarin-Shadows\SombrasSharpnado\SombrasSharpnado\SombrasSharpnado\obj\Debug\netstandard2.0\SombrasSharpnado.AssemblyInfoInputs.cache
+C:\Users\pavel\OneDrive\Documentos\SOURCE_CODE\Xamarin\Xamarin-Shadows\SombrasSharpnado\SombrasSharpnado\SombrasSharpnado\obj\Debug\netstandard2.0\SombrasSharpnado.AssemblyInfo.cs
+C:\Users\pavel\OneDrive\Documentos\SOURCE_CODE\Xamarin\Xamarin-Shadows\SombrasSharpnado\SombrasSharpnado\SombrasSharpnado\obj\Debug\netstandard2.0\SombrasSharpnado.csproj.CoreCompileInputs.cache
+C:\Users\pavel\OneDrive\Documentos\SOURCE_CODE\Xamarin\Xamarin-Shadows\SombrasSharpnado\SombrasSharpnado\SombrasSharpnado\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pavel\OneDrive\Documentos\SOURCE_CODE\Xamarin\Xamarin-Shadows\SombrasSharpnado\SombrasSharpnado\SombrasSharpnado\obj\Debug\netstandard2.0\SombrasSharpnado.dll
+C:\Users\pavel\OneDrive\Documentos\SOURCE_CODE\Xamarin\Xamarin-Shadows\SombrasSharpnado\SombrasSharpnado\SombrasSharpnado\obj\Debug\netstandard2.0\ref\SombrasSharpnado.dll
+C:\Users\pavel\OneDrive\Documentos\SOURCE_CODE\Xamarin\Xamarin-Shadows\SombrasSharpnado\SombrasSharpnado\SombrasSharpnado\obj\Debug\netstandard2.0\SombrasSharpnado.pdb
